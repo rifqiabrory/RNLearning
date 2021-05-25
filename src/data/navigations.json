@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Gesture",
+    "description": "Create gesture handler",
+    "link": "Gesture",
+    "icon": "gesture-tap-button"
+  },
+  {
+    "id": 2,
+    "name": "Animation",
+    "description": "Create animation to component",
+    "link": "Animation",
+    "icon": "animation"
+  },
+  {
+    "id": 3,
+    "name": "Deep Link",
+    "description": "Use Linking",
+    "link": "DeepLinking",
+    "icon": "vector-link"
+  },
+  {
+    "id": 4,
+    "name": "UI & Styles",
+    "description": null,
+    "link": null,
+    "icon": "border-style"
+  },
+  {
+    "id": 5,
+    "name": "Layout Design",
+    "description": null,
+    "link": null,
+    "icon": "page-layout-body"
+  }
+]
